@@ -1,0 +1,3 @@
+1 replace key here in home_controller
+gen_hash_from_params_hash
+2. replace sso_redirect as well with subdomain
